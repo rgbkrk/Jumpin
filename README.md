@@ -5,4 +5,4 @@ Square platformer written for an Embedded Systems class at Colorado State Univer
 
 Sadly, the Java version of this game doesn't handle tight boundaries as cleanly as the FPGA did as shown in this incredible demo:
 
-
+![Jump like a boss](https://cloud.githubusercontent.com/assets/836375/2621859/d35bd460-bc72-11e3-933b-f439cdb63f7c.gif)
